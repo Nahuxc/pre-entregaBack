@@ -1,0 +1,90 @@
+[
+    {
+        "id": 1,
+        "title": "nike air",
+        "description": "nike air blancas limit",
+        "price": 1800,
+        "stock": 10,
+        "img": "imagen"
+    },
+    {
+        "id": 2,
+        "title": "addidas boom",
+        "description": "addidas boom black limit",
+        "price": 1500,
+        "stock": 8,
+        "img": "imagen"
+    },
+    {
+        "id": 3,
+        "title": "pumas",
+        "description": "pumas grey limit",
+        "price": 1300,
+        "stock": 3,
+        "img": "imagen"
+    },
+    {
+        "id": 4,
+        "title": "topper",
+        "description": "topper limit",
+        "price": 1300,
+        "stock": 3,
+        "img": "imagen"
+    },
+    {
+        "id": 5,
+        "title": "nike air force",
+        "description": "nike air force limit",
+        "price": 1300,
+        "stock": 3,
+        "img": "imagen"
+    },
+    {
+        "id": 6,
+        "title": "addidas clasic",
+        "description": "addidas clasic limit",
+        "price": 1300,
+        "stock": 3,
+        "img": "imagen"
+    },
+    {
+        "id": 7,
+        "title": "pumas black and white",
+        "description": "pumas black and white limit",
+        "price": 1300,
+        "stock": 3,
+        "img": "imagen"
+    },
+    {
+        "id": 8,
+        "title": "pumas clasic",
+        "description": "pumas clasic limit",
+        "price": 1300,
+        "stock": 3,
+        "img": "imagen"
+    },
+    {
+        "id": 9,
+        "title": "nike pain",
+        "description": "nike pain limit",
+        "price": 1300,
+        "stock": 3,
+        "img": "imagen"
+    },
+    {
+        "id": 10,
+        "title": "nike run",
+        "description": "nike run limit",
+        "price": 1300,
+        "stock": 3,
+        "img": "imagen"
+    },
+    {
+        "id": 11,
+        "title": "nike clampooo",
+        "description": "nike clampo limit",
+        "price": 1800,
+        "img": "img",
+        "stock": 8
+    }
+]
